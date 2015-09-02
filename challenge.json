@@ -1,4 +1,7 @@
 {
+  "editable": [
+    "App.java"
+  ],
   "test": "mvn test",
   "allowNewFile": false
 }
